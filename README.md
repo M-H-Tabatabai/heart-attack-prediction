@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/arezaei81/heartcsv
 |------|----------|
 | Decision Tree | 88.52% |
 | KNN | 93.44% |
-| Logistic Regression | XX% |
+| Logistic Regression | 86.89% |
 | SVM | XX% |
 
 ---

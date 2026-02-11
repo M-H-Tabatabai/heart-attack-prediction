@@ -36,8 +36,8 @@ https://www.kaggle.com/datasets/arezaei81/heartcsv
 ## 📈 Results
 | Model | Accuracy |
 |------|----------|
-| Decision Tree | XX% |
-| KNN | XX% |
+| Decision Tree | 88.52% |
+| KNN | 93.44% |
 | Logistic Regression | XX% |
 | SVM | XX% |
 
